@@ -21,7 +21,7 @@ body{
     padding-left: 100px;
 }
 .img{
-    background-image: url(/assets/images/bg-sidebar-desktop.svg);
+    background-image: url(bg-sidebar-desktop.svg);
     background-repeat: no-repeat;
     width: 300px;
     height: 570px;
